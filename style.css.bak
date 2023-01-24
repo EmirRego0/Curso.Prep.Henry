@@ -1,0 +1,40 @@
+
+ body {
+	  max-width: 500px;
+      margin: auto;
+      background-image: url("https://cdn6.aptoide.com/imgs/4/6/9/469433066c4fab7d32507ebbda0b491e_icon.png");
+      background-color: black;
+	   position: relative;
+              top: -20px;
+                  left: 20px;
+              background-color: white;
+       width: 500px;
+     }   
+ h1{  
+	 color: blue; 
+	 text-align: center;
+    }
+  h3{
+	 text-align: center;
+	}
+  h4{
+	 text-align: center;
+	}
+  img { 
+      width: 500px;
+	  height: 600px;
+    }
+    #thirdDiv{
+      height: 1200px;
+	  width: 500px;
+	  padding: 50px;
+	  border: solid blue 6px;
+	 
+    }
+	#spanId{
+	  font-size: 18px;
+	  margin: 50px;
+	  
+	}
+   
+   
